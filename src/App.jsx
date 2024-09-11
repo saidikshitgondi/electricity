@@ -2,7 +2,8 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
-// This is for feature1
+// This is for feature1 
+console.log('hi feature1')
   const houseDetails = [
     {
       Flat : "Flat - A",
